@@ -1,0 +1,18 @@
+- analytics shows you how close/far you're from your goal => vague goals will result in shitty metrics
+- wut makes data good?
+	- comparable: many > one data points
+	- understandable: can be communicated to different kinds of audience (really?)
+	- rateable: countable
+	- relevant: context, the more specific and detailed, the better
+- types of data
+	- qualitative: anything that's no numeric. eg: customer interviews, gut feeling. could be transformed to quantitative
+	- quantitative
+	- vanity: metrics that make you feel good. still can be used for motivation + marketing
+	- actionable: why does this sound vague af
+		- internal
+		- external (customer feedback)
+	- exploratory: speculative data, for long term future, generated from current data
+	- lagging: historical data. takes time for shit to get old.
+	- leading: also speculative data, but for the short term future
+	- reports: generated internally or sourced from third party. reports can be any of the type above
+		- this metric sounds kinda redundant. wouldn't you collect the data above then you generate the report?

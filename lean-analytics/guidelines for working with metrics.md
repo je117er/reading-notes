@@ -1,0 +1,20 @@
+- process for selecting the right metrics:
+	- 1. define the biz's governing objectives: "when the use of a thing is not known, abuse is inevitable"
+	- 2. wut drives your biz success. certain aspect will matter more than another. is it customer, or product quality?
+	- 3. wut can employees do to meet the objectives?
+	- stats re-evaluation: is (3) in congruence with (1)?
+- causality and convenience: it's not ez to establish causality, but if it's ez to do, ofc we should do it. if not? look into quasi-experimentation, or a lot of times we just have to make decisions in the face of uncertainty
+- data should decide: again, metrics should be tied to real goals, ie revenue, their growth and progress
+
+## where metrics can go wrong
+- specificity: once you focus on sth, it's natural that you would care about others less
+- inaccuracy: due to assumptions baked in predictions or estimates
+- over-reliance: context matters
+- wrong numbers: when metrics are not supported by real goals/tied to the bottom line.
+	- what does it mean for a metric to be predictive and persistent. how can we measure that?
+- easy to manipulate
+	- one possible countermeasure is to separate real traffic from fake traffic
+- contrasting goal: basically the principle-agent problem
+- you are not your metric
+- human factors: people are not fking robots
+- vanity metrics: shit that makes you feel good but doesn't contribute to the bottom line
