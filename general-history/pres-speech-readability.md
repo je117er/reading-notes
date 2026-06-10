@@ -47,7 +47,7 @@ source: https://old.reddit.com/r/AskHistorians/comments/1tzks0m/george_washingto
 > [6] Rudolf Flesch, The Art of Readable Writing (New York: Harper & Row, 1949).
 
 #### remarks
-- readability =/= quality/reach of thought: readability can measure quantitative aspects of language (sentence length, vocab difficulty), but being much weaker at qualitative ones (depth of thought, emotional resonance, rhetorical skills.)
+- readability =/= quality/reach of thought: readability can measure quantitative aspects of language (sentence length, vocab difficulty), but is much weaker at measuring qualitative ones (depth of thought, emotional resonance, rhetorical skills.)
   - is AI changing this tho? for instance, helps measuring the qualitative aspects; makes producing simple prose more easily, etc
 - political comm can be viewed as an optimization prob:
 
