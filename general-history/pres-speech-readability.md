@@ -57,7 +57,7 @@ source: https://old.reddit.com/r/AskHistorians/comments/1tzks0m/george_washingto
 | medium               | print                         | radio, TV, Internet                             |
 | objective            | signaling in-group membership | persuasion at scale                             |
 | equilibrium strategy | complex, formal prose         | accessible, clear phrasing, emotional resonance |
-- education expansion might've reduced the demand for complex pros in the market for political attention/persuasion.
+- education expansion might've reduced the demand for complex prose in the market for political attention/persuasion.
 
 #### implications
 intentionally left blank 
