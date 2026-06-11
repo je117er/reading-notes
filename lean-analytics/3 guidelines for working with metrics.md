@@ -14,7 +14,9 @@
 	- what does it mean for a metric to be predictive and persistent. how can we measure that?
 - easy to manipulate
 	- one possible countermeasure is to separate real traffic from fake traffic
-- contrasting goal: basically the principle-agent problem
+- contrasting goals: basically the principal-agent problem
+  - seeing this daily frustrates the living hell out of the notetaker
+  	- the antidote? chanting the fourth principle of econ "people respond to incentives" 49 times each time that happens
 - you are not your metric
 - human factors: people are not fking robots
 - vanity metrics: shit that makes you feel good but doesn't contribute to the bottom line
