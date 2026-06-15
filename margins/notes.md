@@ -1,0 +1,4 @@
+- marginal benefit of another self-help book ~ 0 (unchanged since 2015)
+- marginal benefit of another paper on the effects of AI on the labor market ~ 0
+- marginal benefit of another Tyler example > 0
+- marginal benefit of another line of marginal benefit at 10:50pm ~0
