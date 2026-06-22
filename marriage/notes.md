@@ -1,0 +1,2 @@
+- teaser for his textbook on price theory
+- notetaker's latest fav person, after Tyler
