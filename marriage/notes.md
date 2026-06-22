@@ -1,2 +1,3 @@
+- story of origin: stumbled upon this while sick, après le dîner, pensant à qqn
 - teaser for his textbook on price theory
 - notetaker's latest fav person, after Tyler
