@@ -1,0 +1,2 @@
+## [why is LinkedIn like that](https://unsupervisednewsletter.substack.com/p/why-is-linkedin-like-that)
+ain't nothing lights notetaker's eyes up faster than the mention of anything remotely related to (micro)economics, which in this case, was game theory, applied to LinkedIn lunacy
