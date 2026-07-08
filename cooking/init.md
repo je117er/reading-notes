@@ -4,7 +4,7 @@ this repo has, admittedly, grown beyond its original scope. what was supposed to
 \*she cannot feign interest in horoscope or magick to save her life
 
 ### pepper
-normally thường, in every-day homecooking, 90% of cooking needs can be covered by three types of peppers, differed by shape or freshness:
+normally, in every-day homecooking, 90% of cooking needs can be covered by three types of peppers, differed by shape or freshness:
 - tiêu xay sẵn
 - tiêu nguyên hạt
 - tiêu giã trong cối
