@@ -1,0 +1,7 @@
+- how to think about causal questions visually, not mathematically
+- has two parts: 
+    - concepts and their practical implications, delivered in a non-technical way
+    - case studies
+- giving a treatment that can potentially kill people in a study seems to be a fav motivating example to introduce causal questions
+- counterfactual contrasts: measure causal effects on two identical groups with different treatments
+- causal diagrams can represent both causation and associations
