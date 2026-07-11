@@ -2,6 +2,10 @@ notetaker is someone especially sensitive to inconsistencies and quality/strengt
 
 in econ, the supposed inconsistency** between what people say, vs what people do/show, is captured in the term "revealed preferences". at the end of the day, since (micro)econ studies how people *make* decisions under uncertainty, not how people *think/believe* they make decisions under uncertainty, it's of utmost importance to figure out how to measure the latter. of course, that's not to say traditional surveys--asking for people's opinions--is not important, but its strength of inquiry is limited when it comes to figuring out people's true motives.
 
+## further reading
+- [The Biggest Sign You’re in the Right Relationship, According to Research](https://www.vice.com/en/article/the-biggest-sign-youre-in-the-right-relationship-according-to-research/), literally published a day before this note
+- first research cited in the above article: [Feeling known predicts relationship satisfaction](feeling-known.pdf)
+
 ---
 ### footnotes
 \*examples:
