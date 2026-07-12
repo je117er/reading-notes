@@ -15,7 +15,7 @@
 DAGs could produce the same data => DAG is both a causal and statistical model
 - arrow =/= deterministic
 - no arrow = no causal relationship, though there might still be associations
-- interventions follow arrow path => banning all lead ninjas to wear bikinis to work tmr won't stop climate change
+- interventions follow arrow path => banning all lead ninjas from wearing bikinis to work tmr won't stop climate change
 ### fork: common causes
 - systenmatic bias: any association between A and Y not due to the effect of A on Y
 - common causes create an association
