@@ -7,15 +7,16 @@
 ![alt text](cause-and-effect.png)
 - association: suppose we can collect the data below:
 
-| lead ninja | heatwaves |
+| lead ninja | pocari sales |
 |------------|------------|
 | yes        | yes        |
 | no         | no         |      
 
+![alt text](association.png)
 DAGs could produce the same data => DAG is both a causal and statistical model
+- interventions follow arrow path => mandating all lead ninjas to wear bikinis to work tmr won't cause pocari to bankrupt
 - arrow =/= deterministic
 - no arrow = no causal relationship, though there might still be associations
-- interventions follow arrow path => mandating all lead ninjas to wear bikinis to work tmr won't stop climate change
 ### fork: common causes
 - systenmatic bias: any association between A and Y not due to the effect of A on Y
 - common causes create an association
