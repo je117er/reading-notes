@@ -26,5 +26,5 @@ DAGs could produce the same data => DAG is both a causal and statistical model
 - common effects don't create an association, but can create an inverse association => selection bias
 - common effects without condition:![alt text](common-effects-without-cond.png)
 - common effects with condition: ![alt text](common-effects-with-cond.png)
-  - either A or Y can be a direct cause of S
+  - either A or Y can be an indirect cause of S
 
