@@ -1,7 +1,9 @@
 ### preface
 this repo has, admittedly, grown beyond its original scope. what was supposed to be about a way to look at the world through an economic lens, has become, over time, about anything that helps notetaker see the world a little more clearly (with conviction*). and now cooking has finally made its entry into the public consciousness.
 
-\*she cannot feign interest in horoscope or magick to save her life
+\*she cannot feign interest in horoscope or magick to save her life**  
+
+\*\*this is actually demonstrably not correct. at least not true in every context. "waouh! couldn't believe you're a Gemini. you totally don't sound like a walking red flag at all!" or "you know what i really did manifest your existence in my life a week ago tehehe" are what would kill it. what would pull her attention in? astrology and astronomy used to be the same thing; when/why did they depart from one another; what (psychological) needs are astrology and magick fulfilling for young women in the modern world, etc
 
 ### pepper
 normally, in every-day homecooking, 90% of cooking needs can be covered by three types of peppers, differed by shape or freshness:
