@@ -9,8 +9,9 @@
 
 | lead ninja | pocari sales |
 |------------|------------|
-| yes        | yes        |
-| no         | no         |      
+| low        | low        |
+| medium         | medium         |      
+| high         | high         |      
 
 ![alt text](association.png)
 DAGs could produce the same data => DAG is both a causal and statistical model
