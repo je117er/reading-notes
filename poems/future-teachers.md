@@ -12,7 +12,7 @@ who'd stay after class to ask one more
 question, whose face among rows of faces    
 hinted your lesson of the day might seed his life   
 of learning, one who met Whitman's verse    
-and began to make poems of this own.    
+and began to make poems of his own.    
 May this student, like a good song,     
 visit you again and again, may you be blessed   
 with seeing him grow older and join hands   
