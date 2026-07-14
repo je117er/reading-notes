@@ -19,3 +19,5 @@ someone else. I felt almost guilty being me.
 >
 > At some point in the past, someone reading this book had felt moved to take a pen and draw a line under these words. It made me happy to think that because I had been moved by that same passage too, I was now connected to that stranger.
 
+## third
+people sitting together in real life nerding out about cool stuff
