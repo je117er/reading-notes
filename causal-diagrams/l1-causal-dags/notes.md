@@ -30,3 +30,5 @@ DAGs could produce the same data => DAG is both a causal and statistical model
 - common effects with condition: ![alt text](common-effects-with-cond.png)
   - either A or Y can be an indirect cause of S
 
+### sidenotes
+one thing that's been bugging notetaker is that Miguel keeps openinig each example with sth along the lines of "we use expert knowledge to draw this graph, but you could also come up with it through data", but like where does his "expert knowledge" come from, does it not come from synthesized theory repeatedly falsified through better data?
