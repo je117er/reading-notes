@@ -1,0 +1,2 @@
+### [Moral Vegetarianism](https://plato.stanford.edu/entries/vegetarianism/)
+tangentially related, but the recipe to induce an existential crisis at will: go look up "philosophy of [insert your fav subject]" and watch your world getting struck down in an instant
