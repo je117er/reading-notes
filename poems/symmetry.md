@@ -82,10 +82,10 @@ In an effort to get people to look
 into each other's eyes more,    
 and also to appease the mutes,  
 the government has decided  
-tot allot each person exactly one hundred   
+to allot each person exactly one hundred   
 and sixty-seven words, per day.
 
-When the phone rings, I put it to my year       
+When the phone rings, I put it to my ear       
 without saying hello. In the restaurant     
 I point at chicken noodle soup.     
 I am adjusting well to the new way. 
