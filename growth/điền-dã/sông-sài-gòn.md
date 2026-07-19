@@ -1,4 +1,4 @@
-All poems were composed collectively and will be presented without attribution.
+All poems were composed collectively and will be presented without attribution. Original mistakes, if there were, are kept intact.
 
 
 ### 1
@@ -21,7 +21,7 @@ Trong lòng dòng sông, lòng vòng, ròng ròng
 đi đi, chạy chạy, đuổi đuổi, tôi theo sông      
 Sau này phải cố đi làm để mua nhà ở Thảo Điền...*   
 Thảo trong "Thảo Dược", Điền trong "Điền Đồn"   
-Một vùng đất từng có những cánh đồng trải dài bạt ngàn? 
+Một vùng đất từng có những cánh đồng trải dài bạt ngàn?     
 Trải dài bạt ngàn, nặng trĩu mưa rơi    
 Mưa rơi, trĩu nước, lòng người ở đâu   
 Tâm ta trôi mãi nơi dòng nước   
@@ -43,7 +43,7 @@ bới cào, bới cào, tôi tìm trong mình
 ngược dòng, ngược dòng, tôi chới với    
 thuận theo tự nhiên, tôi tự tại         
 lênh đênh trên bờ mãi chẳng     
-thấy sóng ở đáy sống.   
+thấy sóng ở đáy sông.   
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;18.07.25
 
