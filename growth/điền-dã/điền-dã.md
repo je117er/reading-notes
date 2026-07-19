@@ -5,7 +5,7 @@
 ### Sông Sài Gòn - 18/7/2026
 Feels like I've been putting too much pressure on myself, on whether I can write something proper about each trip. How each one's shifted my perceptions. But today I'm saying fuck it, which was exactly how my 2026 started, with a volunteering application to the art fest hosted by the Goethe Institute in January (which will be soon referenced again at [cooking](../../cooking/init.md), perhaps next week):
 
-![alt text](91C1805B-8E65-4960-A76E-31E873AD33D4_1_201_a.jpeg)
+![alt text](story-of-origin.jpeg)
 
 This will be a fast one for now. 
 
