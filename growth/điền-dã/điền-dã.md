@@ -3,7 +3,7 @@
 ### Sông Thu Bồn - 29/6/2026
 
 ### Sông Sài Gòn - 18/7/2026
-Feels like I've been putting too much pressure on myself, on whether I can write something proper about each trip. How each one's shifted my perceptions. But today I'm saying fuck it, which was exactly how my 2026 started, with a volunteering application to the art fest hosted by the Goethe Institute in January (which will be soon referenced again at [cooking](../../cooking/init.md), perhaps next week):
+Feels like I've been putting too much pressure on myself, on whether I can write something proper about each trip. How each one's shifted my perceptions. But today I'm saying fuck it, which was exactly how my 2026 started, with a volunteering application to the art fest hosted by the Goethe Institute in January (which will be soon referenced again at [cooking](../../cooking/init.md#oyster-sauce), perhaps next week):
 
 ![alt text](story-of-origin.jpeg)
 
