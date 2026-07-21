@@ -13,5 +13,7 @@ I was having relatively low expectations for this one. Kiểu cuối tháng Năm
 
 It turned out to be the most transformative experience out of the three so far. I hate to rank things, but it is what it is. Lowkey infatuated with Thảo Điền specifically at the moment because IT IS THE ART CAPITAL OF SÀI GÒN!
 
+Hy vọng có thể quay lại Bình Quới thêm một, hai lần trước tháng Mười.
+
 ### [Tentative] Hà Tiên - 26/7/2026
 Had an energy dip after a full-day trip to sông Sài Gòn yesterday. Not sure I can go on another trip soon. But as soon as the host started mentioning Tao Đàn Chiêu Anh Các I was fucking done.

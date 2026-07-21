@@ -23,5 +23,6 @@ peppercorns-in-a-mortar is a curious case. in her history of watching cooking vi
 
 to conclude, each type of pepper has its own pluses and minuses; and while notetaker proudly owns two mortars, she can't foresee herself smashing peppercorns in one any time soon.
 
-
+### oyster sauce
+tuesday evening is the only time [this week](../growth/điền-dã/điền-dã.md#sông-sài-gòn) notetaker's supposed to be relatively free to start writing about this. unfortunately, she's been surviving on five and a half hours of schleep.
 
